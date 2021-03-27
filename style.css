@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.about {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    padding-top: 0;
+}
+
+.aboutinner {
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+
+.contact {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 30px;
+}
+
+
+.first {
+    text-align: center;
+    color:white;
+    background-color: #303a52;
+    padding-top: 150px;
+}
+
+.second {
+    text-align: center;
+    color:white;
+    position: relative;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-color: #303a52;
+    height: auto;
+    width: auto;
+    
+}
+
+
+.text1 {
+    position: relative;
+    bottom: 250px;
+}
+
+.images {
+    display:inline-block;
+    white-space:nowrap;
+    opacity: 30%;
+}
+
+.third {
+    text-align: center;
+    color:white;
+    height: 200px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-color: #303a52;
+}
+
+.img2{
+    width: 400px;
+    float: left;
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+
+.icons {
+    width: 60px;
+    padding-top: 30px;
+    padding-right: 10px;
+
+}
+
+.icons2 {
+    width: 20px;
+    margin-right: 10px;
+}
+
+.contactinner {
+    font-family: 'Open Sans', sans-serif;
+}
+
